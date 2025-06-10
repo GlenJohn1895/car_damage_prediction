@@ -136,5 +136,3 @@ The results demonstrated a great balance between recall and precision for all cl
 ## 9. Conclusion
 With this project, I effectively constructed a classifying pipeline for car damage severity and estimated repair costs with EfficientNetB0. Preprocessing, augmentation, and a strong model architecture made it possible for me to obtain consistent results. Further work could extend to adding object detection to find damage areas or constructing a regression head for more accurate cost estimation.
 This project illustrated the capabilities of deep learning in addressing real-life issues and provided me with hands-on experience in the end-to-end model development process.
-![image](https://github.com/user-attachments/assets/c5762653-2588-435c-b2d8-01adaf43d12d)
-
