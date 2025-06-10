@@ -5,6 +5,7 @@ As part of my project, I created a deep learning model that can categorize car d
 
 ## 2. Data Preparation and Exploration
 The initial process in my workflow was loading and investigating the dataset. I utilized a number of libraries such as pandas, matplotlib, numpy, and seaborn to manipulate and visualize the data. My data was in the form of a CSV file (data.csv) with image file paths and a column indexed with the damage class of the car.
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
